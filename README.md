@@ -1,4 +1,6 @@
 # react-native-offline-mode
+## Note: This has been fixed to migrate from React Native's NetInfo to react-native-community's NetInfo
+
 A higher-order component for React Native which will conditionally show a component OR something else depending on internet connection availability.
 
 [![ScreenShot](https://raw.githubusercontent.com/rauchy/react-native-offline-mode/master/example.gif)]
